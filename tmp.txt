@@ -1,3 +1,4 @@
 change to English !!
 rere
 git status
+git diff
